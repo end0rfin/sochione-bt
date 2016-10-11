@@ -1,0 +1,43 @@
+li.dropdown:hover .dropdown-menu {
+  display: block;
+  margin: 0;
+}
+a.menu:after .dropdown-toggle:after {
+  content: none;
+}
+.top-menu_city {
+  width: 500px;
+}
+.list-group-item,
+.list-group {
+  border: 0px;
+}
+.top-menu_add {
+  width: 100%;
+}
+.dropdown-menu {
+  padding: 0;
+}
+nav > .container {
+  background-color: #fff;
+}
+.jumbotron {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url("../img/src/main-big-reklama3.jpg");
+  background-position-y: 50%;
+  padding: 0;
+  margin: 0;
+}
+body {
+  background-color: #d0d0d0;
+}
+.row {
+  background-color: #f3f2f2;
+}
+.container {
+  margin-bottom: 0;
+}
+footer {
+  padding-top: 20px;
+}
